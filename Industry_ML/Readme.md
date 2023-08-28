@@ -77,9 +77,7 @@
 `matplotlib` `numpy` `pandas` `plotly` `seaborn` `sklearn` 
 
 ## Контакты
-:small_blue_diamond: [Telegram](https://t.me/Dazzle_dazzle_dazzle)
+:small_light_blue_diamond: [Telegram](https://t.me/Dazzle_dazzle_dazzle)
 :small_blue_diamond: [LinkedIn](https://www.linkedin.com/in/konstantin-sinkevich-39b982265/)
-:small_blue_diamond: [Instagram](https://www.instagram.com/dazzle.dazzle.dazzle/)
-
-<br>2020
+:small_pink_diamond: [Instagram](https://www.instagram.com/dazzle.dazzle.dazzle/)
 

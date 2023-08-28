@@ -19,4 +19,4 @@
 ### Контакты
 :gem::telephone_receiver: [Telegram](https://t.me/Dazzle_dazzle_dazzle)
 :small_blue_diamond::blue_book: [LinkedIn](https://www.linkedin.com/in/konstantin-sinkevich-39b982265/)
-:small_orange_diamond::camera: [Instagram](https://www.instagram.com/dazzle.dazzle.dazzle/)
+

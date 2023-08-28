@@ -74,7 +74,7 @@
 4. Общий вывод
 
 ## Используемые библиотеки и модули
-`matplotlib` `numpy` `pandas` `plotly` `seaborn` `sklearn`
+`matplotlib` `numpy` `pandas` `plotly` `seaborn` `sklearn` 
 
 ## Контакты
 :small_blue_diamond: [Telegram](https://t.me/Dazzle_dazzle_dazzle)

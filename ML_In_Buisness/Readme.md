@@ -1,4 +1,4 @@
-# [Выбор региона для разработки новых нефтяных скважин](https://nbviewer.jupyter.org/github/agnesepoikane/Practicum-by-Yandex-Data-Scientist/blob/main/03_ML_for_business/03_project.ipynb)
+# [Выбор региона для разработки новых нефтяных скважин](https://github.com/DazzleBlind/Portfolio_Practicum/blob/main/ML_In_Buisness/ML_In_Buisness.ipynb)
 
 ## Описание проекта
 

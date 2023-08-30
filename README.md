@@ -17,6 +17,11 @@
 | [Машинное обучение для текстов](https://github.com/DazzleBlind/Portfolio_Practicum/tree/main/ML_For_Text) | Классификация комментариев | Создать прототип модели для интернет-магазина, который будет искать токсичные комментарии и отправлять их на модерацию | `matplotlib` **`nltk`** `numpy` `pandas` **`BERT`** **`Fasttext`** **`gensim`** `sklearn`  |
 
 ### Контакты
-:gem::telephone_receiver: [Telegram](https://t.me/Dazzle_dazzle_dazzle)
-:small_blue_diamond::blue_book: [LinkedIn](https://www.linkedin.com/in/konstantin-sinkevich-39b982265/)
-
+<div id="badges" >
+  <a href="https://t.me/Dazzle_dazzle_dazzle">
+    <img src="https://img.shields.io/badge/Telegram-deepskyblue?style=for-the-badge&logo=telegram&logoColor=white" alt="Twitter Badge"/>
+  </a>
+  <a href="https://www.linkedin.com/in/konstantin-sinkevich-39b982265/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</div>

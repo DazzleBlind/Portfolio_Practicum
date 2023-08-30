@@ -1,4 +1,4 @@
-# [Классификация комментариев](https://nbviewer.jupyter.org/github/agnesepoikane/Practicum-by-Yandex-Data-Scientist/blob/main/08_ML_for_texts/08_project.ipynb)
+# [Классификация комментариев](https://github.com/DazzleBlind/Portfolio_Practicum/blob/main/ML_For_Text/ML_For_Text.ipynb)
 
 ## Описание проекта
 
